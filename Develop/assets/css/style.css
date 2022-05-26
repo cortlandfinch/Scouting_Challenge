@@ -42,7 +42,6 @@ header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
-
 /* Header styles end */
 
 a {
@@ -54,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Hero styles start */
 .hero {
     height: 800px;
     width: 100%;
@@ -62,7 +62,19 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* Hero styles end */
 
+/* Content section styles start */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+/* Content section styles end */
+
+/* Search-engine-optimization styles start */
+
+/* Search-engine-optimization styles end */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -71,12 +83,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .benefits {
