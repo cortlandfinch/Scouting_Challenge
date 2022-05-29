@@ -20,3 +20,5 @@ THEN they fall in sequential order
 
 WHEN I view the title element
 THEN I find a concise, descriptive title
+
+![image of Horiseon website](./assets/images/01-html-css-git-homework-demo.png/)
