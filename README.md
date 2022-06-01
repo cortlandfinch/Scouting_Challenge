@@ -1,26 +1,12 @@
-# Module 1 Refactor Challenge  
-User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+# Horiseon
 
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTM L elements
+## Introduction
+Horiseon features many keys for users such as Search Engine Optimization, Online Reputation Mangement, and Social Media Marketing. This website features a navigation bar that allows users to navigate to the different sections of the website. Some other key features are some insites for users on their business and how to direct traffic and create more brand awareness to their website. 
 
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
 
-WHEN I view the image elements
-THEN I find accessible alt attributes
-
-WHEN I view the heading attributes
-THEN they fall in sequential order
-
-WHEN I view the title element
-THEN I find a concise, descriptive title
-
+## Link to website
 **Link to website:** https://cortlandfinch.github.io/Scouting_Challenge/
 
+
+## Website design
 ![image of Horiseon website](./assets/images/01-html-css-git-homework-demo.png/)
